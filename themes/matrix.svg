@@ -1,0 +1,13 @@
+<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
+  <rect width='96' height='64' id='background' fill='#040a00'></rect>
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high' fill='#00FF60'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#108010'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#0B4216'></circle>
+  <circle cx='72' cy='24' r='8' id='f_inv' fill='#60FF60'></circle>
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#00FF50'></circle>
+  <circle cx='40' cy='40' r='8' id='b_med' fill='#50AA30'></circle>
+  <circle cx='56' cy='40' r='8' id='b_low' fill='#002A00'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#1C4811'></circle>
+</svg>
